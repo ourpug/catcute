@@ -1,0 +1,32 @@
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.exe
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.deps.json
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.runtimeconfig.json
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.runtimeconfig.dev.json
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.dll
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\ref\by far 絕對.dll
+C:\Users\jojo\Desktop\by far 絕對\bin\Debug\net5.0\by far 絕對.pdb
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.csprojAssemblyReference.cache
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.AssemblyInfoInputs.cache
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.AssemblyInfo.cs
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.csproj.CoreCompileInputs.cache
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.dll
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\ref\by far 絕對.dll
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.pdb
+C:\Users\jojo\Desktop\by far 絕對\obj\Debug\net5.0\by far 絕對.genruntimeconfig.cache
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.exe
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.deps.json
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.runtimeconfig.json
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.runtimeconfig.dev.json
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.dll
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\ref\by far 絕對.dll
+C:\Users\jojo\Desktop\vscode\bin\Debug\net5.0\by far 絕對.pdb
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.csprojAssemblyReference.cache
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.AssemblyInfoInputs.cache
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.AssemblyInfo.cs
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.csproj.CoreCompileInputs.cache
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.dll
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\ref\by far 絕對.dll
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.pdb
+C:\Users\jojo\Desktop\vscode\obj\Debug\net5.0\by far 絕對.genruntimeconfig.cache
