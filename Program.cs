@@ -198,7 +198,7 @@ namespace by_far_絕對
                                 {
                                     Console.WriteLine(商品清單[i]);
                                 }
-                            
+                            //沒事 就只是用用看github
 
                                
                               
